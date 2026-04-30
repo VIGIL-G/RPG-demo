@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0a8f3aa296b4408a4f3f8e1f5ecc9cc, type: 3}
+  m_Name: YaoShouAttack
+  m_EditorClassIdentifier: 
+  spellName: "\u5996\u517D\u6483\u722A"
+  spellType: 0
+  spiritualCost: 8
+  attackPower: 20
+  defensePower: 0
+  maxSpiritualPower: 8
+  currentSpiritualPower: 8

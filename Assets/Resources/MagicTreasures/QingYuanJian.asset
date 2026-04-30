@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b4c58a6d0a14f8b9d6a21c7432e9011, type: 3}
+  m_Name: QingYuanJian
+  m_EditorClassIdentifier: 
+  treasureName: "\u9752\u5143\u5251"
+  treasureType: 3
+  visualPrefab: {fileID: 0}
+  visualColor: {r: 0.4745098, g: 0.8784314, b: 0.41960785, a: 1}
+  attack: 30
+  defense: 16
+  escapeSpeed: 4
+  spiritualCostPerUse: 12
+  maxSpiritualPower: 120
+  currentSpiritualPower: 120
+  maxDurability: 180
+  currentDurability: 180
+  specialEffectIds:
+  - sword_art_placeholder
